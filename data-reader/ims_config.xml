@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ims>
+	<connection>
+		<sourceIP>0.0.0.0</sourceIP>
+		<sourcePort>1</sourcePort>
+		<destinationIP>2.2.2.2</destinationIP>
+		<destinationPort>2</destinationPort>
+		<test name="test" />
+	</connection>
+</ims>
